@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Prestige One",
+    "email": "accounts@prestigeone.ae",
+    "phone": "+971-55-000-0000",
+    "address": "Dubai, UAE",
+    "currency": "AED",
+    "notes": "Please include PO number on remittance."
+  },
+  {
+    "name": "Crown Motors",
+    "email": "billing@crownmotors.ie",
+    "phone": "+353-1-000-0000",
+    "address": "Dublin, Ireland",
+    "currency": "EUR"
+  }
+]
